@@ -14,3 +14,4 @@ Aqui reunimos pratos deliciosos criados pela equipe Byte Gourmet.
 ## Receitas
 
 - [Pudim de Leite](sobremesas/pudim-de-leite.md)
+- [Salada de Macarrão](saladas/salada-de-macarra.md)
