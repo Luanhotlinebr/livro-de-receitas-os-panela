@@ -17,3 +17,4 @@ Aqui reunimos pratos deliciosos criados pela equipe Byte Gourmet.
 - [Strogonoff de Frango](carnes/strogonoff-de-frango.md)
 - [Salada de Macarrão](saladas/salada-de-macarrao.md)
 - [Bolinho de Chuva](sobremesas/bolinho-de-chuva.md)
+- [Petit Gateau](sobremesas/petit-gateau.md)
