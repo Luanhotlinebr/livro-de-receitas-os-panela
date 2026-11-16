@@ -45,7 +45,7 @@
 9. Tempere com sal e pimenta-do-reino a gosto.
 10. Leve à geladeira por aproximadamente 30 minutos antes de servir.
 
-Rendimento
+## Rendimento
 
 - Porções: aproximadamente 8 a 10 pessoas.
 
