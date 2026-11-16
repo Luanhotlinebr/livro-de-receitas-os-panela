@@ -32,7 +32,7 @@
 
 - 200 gramas de filé de frango desfiado (sassami) (opcional)
 
-Modo de preparo
+## Modo de preparo
 
 1. Em uma panela, coloque água para ferver, adicione sal e cozinhe o macarrão parafuso conforme as instruções da embalagem, até ficar al dente.
 2. Escorra o macarrão, passe rapidamente por água fria para interromper o cozimento e deixe esfriar.
@@ -45,7 +45,7 @@ Modo de preparo
 9. Tempere com sal e pimenta-do-reino a gosto.
 10. Leve à geladeira por aproximadamente 30 minutos antes de servir.
 
-Rendimento
+## Rendimento
 
 - Porções: aproximadamente 8 a 10 pessoas.
 
@@ -54,3 +54,7 @@ Rendimento
 - Tempo de refrigeração: 30 minutos.
 
 - Tempo total: aproximadamente 1 hora.
+
+---
+
+- [Voltar à Categoria](.) | [Voltar ao Menu Principal](../menu.md)
