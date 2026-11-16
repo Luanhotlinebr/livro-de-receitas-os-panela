@@ -32,7 +32,7 @@
 
 - 200 gramas de filé de frango desfiado (sassami) (opcional)
 
-Modo de preparo
+## Modo de preparo
 
 1. Em uma panela, coloque água para ferver, adicione sal e cozinhe o macarrão parafuso conforme as instruções da embalagem, até ficar al dente.
 2. Escorra o macarrão, passe rapidamente por água fria para interromper o cozimento e deixe esfriar.
