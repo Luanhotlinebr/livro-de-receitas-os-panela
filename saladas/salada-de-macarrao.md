@@ -54,3 +54,7 @@
 - Tempo de refrigeração: 30 minutos.
 
 - Tempo total: aproximadamente 1 hora.
+
+---
+
+- [Voltar à Categoria](.) | [Voltar ao Menu Principal](../menu.md)
