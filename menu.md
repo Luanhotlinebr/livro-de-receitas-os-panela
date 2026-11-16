@@ -1,6 +1,7 @@
+
 # Livro de Receitas – Byte Gourmet
 
-Bem-vindo ao nosso livro colaborativo de receitas!
+Bem-vindo ao nosso livro colaborativo de receitas!  
 Aqui reunimos pratos deliciosos criados pela equipe Byte Gourmet.
 
 ## Categorias
@@ -14,4 +15,5 @@ Aqui reunimos pratos deliciosos criados pela equipe Byte Gourmet.
 ## Receitas
 
 - [Pudim de Leite](sobremesas/pudim-de-leite.md)
+- [Strogonoff de Frango](carnes/strogonoff-de-frango.md)
 - [Salada de Macarrão](saladas/salada-de-macarra.md)
