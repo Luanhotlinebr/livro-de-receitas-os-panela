@@ -1,7 +1,7 @@
 # Livro de Receitas Colaborativo
 
 Este projeto reúne receitas em Markdown, organizadas por categoria e
-desenvolvidas colaborativamente pela equipe [nome da equipe]. A atividade
+desenvolvidas colaborativamente pela equipe Os Panela. A atividade
 também permite praticar o controle de mudanças com Git e GitHub.
 
 ## Acesse o livro
@@ -19,8 +19,12 @@ e encontrar as receitas disponíveis.
 
 ## Integrantes
 
-- [Nome do integrante] — [@usuario](https://github.com/usuario)
-- [Nome do integrante] — [@usuario](https://github.com/usuario)
+- Antônio Felipe Passos da Silva — [@Felipe-Silva7](https://github.com/Felipe-Silva7)
+- Carlos Eduardo Farias da Silva — [@cadu-farias](https://github.com/cadu-farias)
+- Igor Thyago de Sousa Silva — [@igorthyago](https://github.com/igorthyago)
+- José Elryan Costa Gomes — [@ElryanGomes](https://github.com/ElryanGomes)
+- Luan Victor Paixão da Mota Sousa - [@Luanhotlinebr](https://github.com/Luanhotlinebr)
+- Moises Bastos de Sousa - [@Moises-bastos](https://github.com/Moises-bastos)
 
 ## Como contribuir
 
