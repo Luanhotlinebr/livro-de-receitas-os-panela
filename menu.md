@@ -18,3 +18,4 @@ Aqui reunimos pratos deliciosos criados pela equipe Byte Gourmet.
 - [Salada de Macarrão](saladas/salada-de-macarrao.md)
 - [Bolinho de Chuva](sobremesas/bolinho-de-chuva.md)
 - [Petit Gateau](sobremesas/petit-gateau.md)
+- [Nhoque de batata](massas/nhoque-de-batata.md)
