@@ -1,6 +1,6 @@
-# Guia de Contribuição – Byte Gourmet
+# Guia de Contribuição – Os Panela
 
-Obrigado por contribuir com o **Livro de Receitas – Byte Gourmet**!
+Obrigado por contribuir com o **Livro de Receitas – Os Panela**!
 
 Este documento estabelece os padrões e procedimentos para colaboração, garantindo organização, rastreabilidade e qualidade nas alterações realizadas no repositório.
 
@@ -294,6 +294,6 @@ Antes de concluir um Pull Request, confirme:
 
 ---
 
-**Equipe Byte Gourmet**
+**Equipe Os Panela**
 
 Projeto acadêmico da disciplina de Engenharia de Software 1 – Gerência de Configuração de Software.
