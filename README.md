@@ -1,7 +1,7 @@
 # Livro de Receitas Colaborativo
 
 Este projeto reúne receitas em Markdown, organizadas por categoria e
-desenvolvidas colaborativamente pela equipe [nome da equipe]. A atividade
+desenvolvidas colaborativamente pela equipe Os Panela. A atividade
 também permite praticar o controle de mudanças com Git e GitHub.
 
 ## Acesse o livro
