@@ -31,3 +31,8 @@ Aproximadamente 4 porções.
 ## Tempo de Preparo
 
 Aproximadamente 45 minutos.
+
+
+---
+
+[Voltar à Categoria](.) | [Voltar ao Menu Principal](../menu.md)
