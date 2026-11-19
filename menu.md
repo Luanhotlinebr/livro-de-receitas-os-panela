@@ -15,6 +15,7 @@ Aqui reunimos pratos deliciosos criados pela equipe Byte Gourmet.
 
 - [Pudim de Leite](sobremesas/pudim-de-leite.md)
 - [Strogonoff de Frango](carnes/strogonoff-de-frango.md)
+- [Carne de Panela](carnes/carne-de-panela.md)
 - [Salada de Macarrão](saladas/salada-de-macarrao.md)
 - [Bolinho de Chuva](sobremesas/bolinho-de-chuva.md)
 - [Petit Gateau](sobremesas/petit-gateau.md)
