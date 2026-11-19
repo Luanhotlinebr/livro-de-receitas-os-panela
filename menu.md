@@ -26,4 +26,4 @@ Aqui reunimos pratos deliciosos criados pela equipe Os Panela.
   - [Petit Gateau](sobremesas/petit-gateau.md)
   - [Bolinho de Chuva](sobremesas/bolinho-de-chuva.md)
 
-## Receitas
+## Receitas ordenadas em ordem alfabética
