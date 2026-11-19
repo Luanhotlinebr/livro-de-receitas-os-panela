@@ -24,4 +24,5 @@ Aqui reunimos pratos deliciosos criados pela equipe Os Panela.
 - [Macarrão ao Molho Branco](massas/macarrao-ao-molho-branco.md)
 - [Lasanha à Bolonhesa](massas/lasanha-a-bolonhesa.md)
 - [Canja de Galinha Rápida](sopas/canja-de-galinha-rapida.md)
+- [Salada de Grão de Bico](saladas/salada-de-grao-de-bico.md)
 - [Salada Caesar](saladas/salada-caesar.md)
