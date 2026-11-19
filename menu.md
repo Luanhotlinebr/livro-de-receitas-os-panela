@@ -22,3 +22,4 @@ Aqui reunimos pratos deliciosos criados pela equipe Byte Gourmet.
 - [Petit Gateau](sobremesas/petit-gateau.md)
 - [Nhoque de batata](massas/nhoque-de-batata.md)
 - [Canja de Galinha Rápida](sopas/canja-de-galinha-rapida.md)
+- [Caldo Verde](sopas/caldo-verde.md)
