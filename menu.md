@@ -1,7 +1,7 @@
-# Livro de Receitas – Byte Gourmet
+# Livro de Receitas – Os Panela
 
 Bem-vindo ao nosso livro colaborativo de receitas!  
-Aqui reunimos pratos deliciosos criados pela equipe Byte Gourmet.
+Aqui reunimos pratos deliciosos criados pela equipe Os Panela.
 
 ## Categorias
 
