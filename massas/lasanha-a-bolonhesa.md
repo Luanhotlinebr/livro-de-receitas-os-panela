@@ -32,3 +32,4 @@
 ## Rendimento
 
 Aproximadamente 6 porções.
+[← Voltar ao menu principal](../menu.md)
