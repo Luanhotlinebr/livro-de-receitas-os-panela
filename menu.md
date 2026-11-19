@@ -27,4 +27,3 @@ Aqui reunimos pratos deliciosos criados pela equipe Os Panela.
 - [Caldo Verde](sopas/caldo-verde.md)
 - [Salada de Grão de Bico](saladas/salada-de-grao-de-bico.md)
 - [Salada Caesar](saladas/salada-caesar.md)
-- [Sopa de Legumes](sopas/sopa-de-legumes.md)
