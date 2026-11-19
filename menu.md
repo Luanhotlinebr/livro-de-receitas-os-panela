@@ -3,7 +3,7 @@
 Bem-vindo ao nosso livro colaborativo de receitas!  
 Aqui reunimos pratos deliciosos criados pela equipe Os Panela.
 
-## Categorias
+## Receitas
 
 - [Saladas](saladas/)
   - [Salada de Macarrão](saladas/salada-de-macarrao.md)
