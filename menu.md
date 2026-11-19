@@ -1,7 +1,7 @@
-# Livro de Receitas – Byte Gourmet
+# Livro de Receitas – Os Panela
 
 Bem-vindo ao nosso livro colaborativo de receitas!  
-Aqui reunimos pratos deliciosos criados pela equipe Byte Gourmet.
+Aqui reunimos pratos deliciosos criados pela equipe Os Panela.
 
 ## Categorias
 
@@ -22,4 +22,5 @@ Aqui reunimos pratos deliciosos criados pela equipe Byte Gourmet.
 - [Petit Gateau](sobremesas/petit-gateau.md)
 - [Nhoque de batata](massas/nhoque-de-batata.md)
 - [Macarrão ao Molho Branco](massas/macarrao-ao-molho-branco.md)
+- [Lasanha à Bolonhesa](massas/lasanha-a-bolonhesa.md)
 - [Canja de Galinha Rápida](sopas/canja-de-galinha-rapida.md)
