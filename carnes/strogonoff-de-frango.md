@@ -28,3 +28,7 @@
 ## Rendimento
 
 Aproximadamente 4 porções.
+
+---
+
+[Voltar à Categoria](README.md) | [Voltar ao Menu Principal](../menu.md)

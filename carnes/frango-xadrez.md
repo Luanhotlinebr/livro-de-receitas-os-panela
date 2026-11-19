@@ -39,4 +39,4 @@ Aproximadamente 36 minutos.
 
 ---
 
-[Voltar à Categoria](.) | [Voltar ao Menu Principal](../menu.md)
+[Voltar à Categoria](README.md) | [Voltar ao Menu Principal](../menu.md)
