@@ -21,4 +21,5 @@ Aqui reunimos pratos deliciosos criados pela equipe Byte Gourmet.
 - [Bolinho de Chuva](sobremesas/bolinho-de-chuva.md)
 - [Petit Gateau](sobremesas/petit-gateau.md)
 - [Nhoque de batata](massas/nhoque-de-batata.md)
+- [Lasanha à Bolonhesa](massas/lasanha-a-bolonhesa.md)
 - [Canja de Galinha Rápida](sopas/canja-de-galinha-rapida.md)
